@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
   else if (page === 'contato') carregarContato();
 });
 
-// SERVIÇOS
+// Serviço
 function carregarServicos() {
   fetch('data/servicos.json')
     .then(res => res.json())
@@ -26,7 +26,7 @@ function carregarServicos() {
     });
 }
 
-// GALERIA
+// Galeria
 function carregarGaleria() {
   fetch('data/galeria.json')
     .then(res => res.json())
@@ -47,7 +47,7 @@ function carregarGaleria() {
     });
 }
 
-// EQUIPE
+// Equipe
 function carregarEquipe() {
   fetch('data/equipe.json')
     .then(res => res.json())
@@ -72,7 +72,7 @@ function carregarEquipe() {
     });
 }
 
-// CONTATO
+// Contato
 function carregarContato() {
   fetch('data/contato.json')
     .then(res => res.json())
