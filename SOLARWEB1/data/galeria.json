@@ -1,0 +1,13 @@
+[
+  { "imagem": "imagens/galeria/Empresarial1.png", "descricao": "Paisagismo Empresarial", "local": "Shopping Unimart" },
+  { "imagem": "imagens/galeria/Empresarial2.png", "descricao": "Paisagismo Empresarial", "local": "Shopping Parque Prado" },
+  { "imagem": "imagens/galeria/Empresarial3.jpg", "descricao": "Paisagismo Empresarial", "local": "Banco" },
+  { "imagem": "imagens/galeria/Residencial1.png", "descricao": "Área Residencial", "local": " Condomínio Águas Formosas"},
+  { "imagem": "imagens/galeria/Residencial2.png", "descricao": "Área Residencial", "local": " Casa"},
+  { "imagem": "imagens/galeria/Residencial3.jpg", "descricao": "Área Residencial", "local": " Condomínio Severo"},
+  { "imagem": "imagens/galeria/Residencial4.jpg", "descricao": "Área Residencial", "local": " Condomínio Severo"},
+  { "imagem": "imagens/galeria/Residencial5.jpg", "descricao": "Área Residencial", "local": " Condomínio Una"},
+  { "imagem": "imagens/galeria/Residencial6.jpg", "descricao": "Área Residencial", "local": " Condomínio Colina"},
+  { "imagem": "imagens/galeria/Residencial7.jpg", "descricao": "Área Residencial", "local": " Casa"},
+  { "imagem": "imagens/galeria/Residencial8.jpg", "descricao": "Área Residencial", "local": " Condomínio Cachoeira do Sol"}
+]

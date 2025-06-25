@@ -1,0 +1,23 @@
+[
+  {
+    "titulo": "Manutenção de Jardins",
+    "descricao": "Manutenção periódica com corte de grama, poda de arbustos, adubação e controle de pragas.",
+    "destaque": true
+  },
+  {
+    "titulo": "Elaboração de Projetos Paisagísticos",
+    "descricao": "Projetos personalizados com croquis, plantas baixas, estudo de solo e escolha de espécies adequadas ao espaço e clima."
+  },
+  {
+    "titulo": "Poda e Limpeza de Árvores",
+    "descricao": "Serviço de poda com equipamentos adequados e equipe capacitada para garantir segurança e estética."
+  },
+  {
+    "titulo": "Instalação de Sistemas de Irrigação",
+    "descricao": "Planejamento e instalação de sistemas de irrigação automáticos ou manuais, reduzindo consumo de água e garantindo eficiência."
+  },
+  {
+    "titulo": "Jardinagem em Vasos e Interiores",
+    "descricao": "Montagem e manutenção de jardins verticais, vasos ornamentais e projetos verdes para ambientes internos."
+  }
+]

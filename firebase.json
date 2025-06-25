@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "SOLARWEB1",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
