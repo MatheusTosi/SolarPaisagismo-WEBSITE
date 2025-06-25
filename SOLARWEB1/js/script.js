@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
   else if (page === 'galeria') carregarGaleria();
   else if (page === 'equipe') carregarEquipe();
   else if (page === 'contato') carregarContato();
+  
 });
 
 // Serviço
